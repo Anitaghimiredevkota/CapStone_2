@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\capstone2\capstone2\bin\Debug\capstone2.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\capstone2\capstone2\bin\Debug\capstone2.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\capstone2\capstone2\bin\Debug\capstone2.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\capstone2\capstone2\obj\Debug\capstone2.csprojAssemblyReference.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\capstone2\capstone2\obj\Debug\capstone2.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\capstone2\capstone2\obj\Debug\capstone2.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\capstone2\capstone2\obj\Debug\capstone2.pdb
